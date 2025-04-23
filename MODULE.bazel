@@ -1,0 +1,4 @@
+"""MODULE.bazel"""
+
+bazel_dep(name = "aspect_rules_js", version = "2.1.3")
+bazel_dep(name = "aspect_bazel_lib", version = "2.10.0")
