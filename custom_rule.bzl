@@ -1,7 +1,7 @@
 """custom_rule.bzl"""
 
 JS_CONTENT = """
-Console.log('hello world!')
+console.log('hello world!')
 """
 
 def _custom_rule_impl(ctx):
